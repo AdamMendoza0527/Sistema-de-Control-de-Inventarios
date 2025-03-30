@@ -1,0 +1,3 @@
+Proyecto Sistema de Control de Inventarios para Pequeñas Empresas
+
+Brinda múltiples beneficios, con una administración más eficiente de los productos, así evitando tanto el exceso de stock como la escasez mediante alertas. Permitiendo un registro preciso de entradas y salidas, minimizando errores y facilitando decisiones con reportes detallados. Además, optimiza tiempo y recursos al automatizar procesos manuales, mejorando la productividad.
