@@ -1,0 +1,4 @@
+Proyecto Sistema de Control de Inventarios para Pequeñas Empresas
+
+Solución: Desarrollar una aplicación que permita a las pequeñas empresas gestionar su inventario de manera eficiente, controlando entradas y salidas de productos, generando alertas cuando los productos están por agotarse, y generando informes.
+
