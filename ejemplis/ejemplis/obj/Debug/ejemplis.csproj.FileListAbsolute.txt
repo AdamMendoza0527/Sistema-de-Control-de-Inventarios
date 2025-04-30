@@ -1,7 +1,0 @@
-C:\Users\USER\source\repos\ejemplis\ejemplis\bin\Debug\ejemplis.exe.config
-C:\Users\USER\source\repos\ejemplis\ejemplis\bin\Debug\ejemplis.exe
-C:\Users\USER\source\repos\ejemplis\ejemplis\bin\Debug\ejemplis.pdb
-C:\Users\USER\source\repos\ejemplis\ejemplis\obj\Debug\ejemplis.csproj.AssemblyReference.cache
-C:\Users\USER\source\repos\ejemplis\ejemplis\obj\Debug\ejemplis.csproj.CoreCompileInputs.cache
-C:\Users\USER\source\repos\ejemplis\ejemplis\obj\Debug\ejemplis.exe
-C:\Users\USER\source\repos\ejemplis\ejemplis\obj\Debug\ejemplis.pdb
