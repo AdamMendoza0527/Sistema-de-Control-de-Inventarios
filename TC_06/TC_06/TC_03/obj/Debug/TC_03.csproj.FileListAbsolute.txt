@@ -1,0 +1,73 @@
+C:\Users\user\source\repos\TC_03\TC_03\bin\Debug\TC_03.exe.config
+C:\Users\user\source\repos\TC_03\TC_03\bin\Debug\TC_03.exe
+C:\Users\user\source\repos\TC_03\TC_03\bin\Debug\TC_03.pdb
+C:\Users\user\source\repos\TC_03\TC_03\obj\Debug\TC_03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TC_03\TC_03\obj\Debug\TC_03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TC_03\TC_03\obj\Debug\TC_03.exe
+C:\Users\user\source\repos\TC_03\TC_03\obj\Debug\TC_03.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\TC_03.exe.config
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\TC_03.exe
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\TC_03.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\obj\Debug\TC_03.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\obj\Debug\TC_03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\obj\Debug\TC_03.exe
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\obj\Debug\TC_03.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ClosedXML.Parser.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\RBush.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ClosedXML.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ClosedXML.Parser.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\RBush.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_03\TC_03\obj\Debug\TC_03.csproj.Up2Date
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\TC_03.exe.config
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\TC_03.exe
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\TC_03.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ClosedXML.Parser.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\RBush.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ClosedXML.pdb
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ClosedXML.Parser.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\RBush.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\obj\Debug\TC_03.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\obj\Debug\TC_03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\obj\Debug\TC_03.csproj.Up2Date
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\obj\Debug\TC_03.exe
+C:\Users\user\Desktop\FunPro\Nueva carpeta\TC_05\TC_03\obj\Debug\TC_03.pdb
